@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="8191" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="8mU-NI-3PM">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="8mU-NI-3PM">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
     </dependencies>
     <scenes>
         <!--View Controller-->
@@ -18,7 +18,6 @@
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mTU-Le-zPn">
                                 <rect key="frame" x="29" y="303" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="1"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="1">
@@ -27,7 +26,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EUT-pc-thl">
                                 <rect key="frame" x="110" y="303" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="2"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="2">
@@ -36,7 +34,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wdu-kW-1cq">
                                 <rect key="frame" x="191" y="303" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="3"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="3">
@@ -45,7 +42,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rTm-G3-deF">
                                 <rect key="frame" x="29" y="375" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="4"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="4">
@@ -54,7 +50,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1Se-RN-pgZ">
                                 <rect key="frame" x="110" y="375" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="5"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="5">
@@ -63,7 +58,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NbG-23-VA1">
                                 <rect key="frame" x="191" y="375" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="6"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="6">
@@ -72,7 +66,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RNU-7g-SM4">
                                 <rect key="frame" x="29" y="447" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="7"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="7">
@@ -81,7 +74,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DB0-kA-tll">
                                 <rect key="frame" x="110" y="447" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="8"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="8">
@@ -90,7 +82,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fbb-Rv-xZy">
                                 <rect key="frame" x="29" y="519" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="0"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="0">
@@ -99,7 +90,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cel-WX-uPK">
                                 <rect key="frame" x="110" y="519" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="."/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title=".">
@@ -108,7 +98,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EpZ-UJ-p7h">
                                 <rect key="frame" x="191" y="519" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="="/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="=">
@@ -117,7 +106,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TMm-EA-SSY">
                                 <rect key="frame" x="272" y="447" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="-"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="-">
@@ -126,7 +114,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zES-c3-49V">
                                 <rect key="frame" x="272" y="375" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="x"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="x">
@@ -135,7 +122,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1TZ-nz-qdy">
                                 <rect key="frame" x="272" y="303" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="/"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="/">
@@ -144,7 +130,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4Mv-tY-Kmr">
                                 <rect key="frame" x="272" y="519" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="+"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="+">
@@ -153,7 +138,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Pa0-Mb-Q0M">
                                 <rect key="frame" x="191" y="447" width="20" height="30"/>
-                                <animations/>
                                 <accessibility key="accessibilityConfiguration" label="9"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="9">
@@ -165,27 +149,64 @@
                                 <subviews>
                                     <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="yV0-KJ-CTc">
                                         <rect key="frame" x="18" y="127" width="284" height="30"/>
-                                        <animations/>
                                         <accessibility key="accessibilityConfiguration" label="displayTextField"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits"/>
                                     </textField>
                                 </subviews>
-                                <animations/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                                 <accessibility key="accessibilityConfiguration" label="topContainerView">
                                     <bool key="isElement" value="YES"/>
                                 </accessibility>
                             </view>
+                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GBQ-sE-dyA">
+                                <rect key="frame" x="0.0" y="0.0" width="200" height="110"/>
+                                <variation key="heightClass=compact-widthClass=compact" fixedFrame="YES">
+                                    <rect key="frame" x="0.0" y="272" width="320" height="95"/>
+                                </variation>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="QX5-Sg-7Ur">
+                                <rect key="frame" x="0.0" y="0.0" width="200" height="110"/>
+                                <variation key="heightClass=compact-widthClass=compact" fixedFrame="YES">
+                                    <rect key="frame" x="0.0" y="367" width="320" height="79"/>
+                                </variation>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="IEi-pL-Onl">
+                                <rect key="frame" x="0.0" y="0.0" width="200" height="110"/>
+                                <variation key="heightClass=compact-widthClass=compact" fixedFrame="YES">
+                                    <rect key="frame" x="0.0" y="447" width="320" height="71"/>
+                                </variation>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dwi-Sx-a4p">
+                                <rect key="frame" x="0.0" y="0.0" width="200" height="110"/>
+                                <variation key="heightClass=compact-widthClass=compact" fixedFrame="YES">
+                                    <rect key="frame" x="0.0" y="501" width="320" height="110"/>
+                                </variation>
+                            </stackView>
                         </subviews>
-                        <animations/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <variation key="default">
+                            <mask key="subviews">
+                                <exclude reference="GBQ-sE-dyA"/>
+                                <exclude reference="QX5-Sg-7Ur"/>
+                                <exclude reference="IEi-pL-Onl"/>
+                                <exclude reference="dwi-Sx-a4p"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=compact-widthClass=compact">
+                            <mask key="subviews">
+                                <include reference="GBQ-sE-dyA"/>
+                                <include reference="QX5-Sg-7Ur"/>
+                                <include reference="IEi-pL-Onl"/>
+                                <include reference="dwi-Sx-a4p"/>
+                            </mask>
+                        </variation>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Ec3-7u-aR1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1269.375" y="142.6056338028169"/>
+            <point key="canvasLocation" x="1269" y="142.5"/>
         </scene>
     </scenes>
 </document>
